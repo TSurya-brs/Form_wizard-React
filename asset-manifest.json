@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Form_wizard-React/static/css/main.1dbb2d7c.css",
+    "main.js": "/Form_wizard-React/static/js/main.544627e3.js",
+    "static/js/453.2a82e7ac.chunk.js": "/Form_wizard-React/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/Form_wizard-React/index.html",
+    "main.1dbb2d7c.css.map": "/Form_wizard-React/static/css/main.1dbb2d7c.css.map",
+    "main.544627e3.js.map": "/Form_wizard-React/static/js/main.544627e3.js.map",
+    "453.2a82e7ac.chunk.js.map": "/Form_wizard-React/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dbb2d7c.css",
+    "static/js/main.544627e3.js"
+  ]
+}
